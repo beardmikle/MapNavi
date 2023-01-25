@@ -14,19 +14,18 @@ Pop-up alerts have also been added.
 
 Some screenshots:
 
-![1](https://user-images.githubusercontent.com/11380960/214593933-2bd4b5a7-b1d1-4a6a-a9c1-d2facbb16fd3.png)
+![1](https://user-images.githubusercontent.com/11380960/214595763-1a17ee47-b863-42e3-999f-1a336f655ce5.png)
 
+![2](https://user-images.githubusercontent.com/11380960/214595806-f61d4598-bf51-4fb0-8348-e73ef6025dd6.png)
 
-![2](https://user-images.githubusercontent.com/11380960/214593965-14c977cb-f446-4f02-9b2c-f21fed9a1aee.png)
+![3](https://user-images.githubusercontent.com/11380960/214595816-2f51810e-9481-49cd-a5b4-fc9bdb31870e.png)
 
-![3](https://user-images.githubusercontent.com/11380960/214593993-e4032cf8-c345-4bd3-8c32-e301c40a7101.png)
+![4](https://user-images.githubusercontent.com/11380960/214595824-fe4e1b26-6c0b-4e30-a0e3-562522fe2de5.png)
 
-![4](https://user-images.githubusercontent.com/11380960/214594021-3ae96299-abbf-4963-81d5-597d8809308c.png)
+![5](https://user-images.githubusercontent.com/11380960/214595828-b41ae346-af9c-41f8-bd00-3f3d98ac160f.png)
 
-![5](https://user-images.githubusercontent.com/11380960/214594054-4f33ed32-7b5d-4143-8cbe-96be75b737b7.png)
 
 A small video:
-
 
 https://user-images.githubusercontent.com/11380960/214594433-241c144c-620f-4cb3-a05d-e50063bd8c20.mov
 
