@@ -1,7 +1,5 @@
 # MapNavi 📍🗺️
 -----------------
-
-
 The application was developed as part of the study of the MapKit and CoreLocation frameworks.
 The construction of the route is carried out at three characteristic addresses.
 After adding three characteristic points (addresses), two additional buttons appear to the already existing button "Add address".
@@ -13,7 +11,7 @@ After erasing the entered data, the route is re-constructed at the three specifi
 Pop-up alerts have also been added.
 
 Some screenshots:
-
+-----------------
 ![1](https://user-images.githubusercontent.com/11380960/214595763-1a17ee47-b863-42e3-999f-1a336f655ce5.png)
 
 ![2](https://user-images.githubusercontent.com/11380960/214595806-f61d4598-bf51-4fb0-8348-e73ef6025dd6.png)
@@ -26,7 +24,7 @@ Some screenshots:
 
 
 A small video:
-
+-----------------
 https://user-images.githubusercontent.com/11380960/214594433-241c144c-620f-4cb3-a05d-e50063bd8c20.mov
 
 https://user-images.githubusercontent.com/11380960/214605515-21d4010f-37ba-4723-91a0-88c91e547dc4.mov
